@@ -12,7 +12,7 @@ This application allows the user to write, save and delete notes using express. 
 ## Installation
 This application requires no installation.  You can access this application through the following link:
 
-https://obscure-atoll-02633.herokuapp.com/notes
+https://obscure-atoll-02633.herokuapp.com/
 
 ## Technologies Used
 * HTML
