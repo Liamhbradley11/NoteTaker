@@ -33,6 +33,6 @@ https://obscure-atoll-02633.herokuapp.com/notes
   Please contact me via email:
   * <liamhbradley11@gmail.com>
 
-  You can also find more of my work at my
+  You can also find more of my work on my
   * [Github](https://github.com/liamhbradley11) account
   
