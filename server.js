@@ -1,7 +1,5 @@
 //dependencies
 var express = require("express");
-// const path = require("path");
-
 
 //initialize express
 var app = express();
@@ -21,5 +19,5 @@ require("./routes/html-routes")(app);
 
 //listen on port
 app.listen(PORT, function() {
-    console.log("App listening on PORT: " + PORT);
+    console.log("App listening on http://localhost:" + PORT);
 }); 
